@@ -1,0 +1,5 @@
+# ninja log v5
+6	736	7525134609072244	CMakeFiles/ProjectLibrary.dir/library.cpp.obj	9da1338a8a95699e
+1	841	7525134610074944	CMakeFiles/ProjectLibrary.dir/Checkers_Board.cpp.obj	cf8cb244fe195898
+841	1591	7525134617580819	libProjectLibrary.dll	6ba276d6eea7e348
+841	1591	7525134617580819	libProjectLibrary.dll.a	6ba276d6eea7e348
